@@ -1,0 +1,10 @@
+{
+    "noticias":[
+       {
+            "titulo":"EL COMIENZO DE LA TEMPORADA 2024",
+            "texto":"La temporada ya tiene fecha de inicio, será el día 29 de Febrero en Bahrain, circuito donde hemos presenciado carreras increibles en 
+        el territorio arenoso árabe."
+        
+       }
+    ]
+ }

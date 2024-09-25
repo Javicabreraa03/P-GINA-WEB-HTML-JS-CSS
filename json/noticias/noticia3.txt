@@ -1,0 +1,10 @@
+{
+    "noticias":[
+       {
+            "titulo":"STAKE KICK SAUBER COMO NUEVO EQUIPO",
+            "texto":"El equipo Alfa Romeo inicia esta nueva temporada 2024 con el nuevo patrocinador KICK y volviendo a cambiar el nombre a Sauber, equipo
+        en el que compitieron grandes pilotos hace algunos años."
+        
+       }
+    ]
+ }

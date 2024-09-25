@@ -1,0 +1,10 @@
+{
+    "noticias":[
+       {
+            "titulo":"HAMILTON LLEGA A FERRARI EN 2025",
+            "texto":"El 7 veces campeón del mundo de Fórmula 1 ocupará el asiento de Carlos Sainz en la escuderia Ferrari,
+        para sorpresa de todos, deja a este sin asiento para 2025 y a Mercedes, el equipo que lo llevó a la gloria, sin un gran piloto como él."
+        
+       }
+    ]
+ }

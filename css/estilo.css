@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Monserrat&display=swap');
+body{
+    font-family: 'Monserrat', sans-serif;
+    overflow-x:hidden ;
+}
+header{
+    background-color: rgb(204, 204, 204);
+}
+header p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+#menu a{
+    font-size: 25px;
+}
+#menu a:hover{
+    font-weight: bold;
+    font-size: 30px;
+    transition: 0.6s;
+}

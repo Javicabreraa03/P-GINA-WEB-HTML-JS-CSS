@@ -1,0 +1,86 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Monserrat&display=swap');
+body{
+    overflow-x:hidden ;
+}
+header{
+    background-color: rgb(204, 204, 204);
+}
+header p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+#menu a{
+    font-size: 25px;
+}
+#menu a:hover{
+    font-weight: bold;
+    font-size: 30px;
+    transition: 0.6s;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.slider{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-width: 100vh;
+    margin-bottom: 45px;
+}
+
+#content{
+    height: 500px;
+    width: 750px;
+    position: relative;
+
+}
+
+#content .images{
+height: 100%;
+width: 100%;
+
+}
+
+.sliders{
+    position:absolute;
+    top:50%;
+    width: 45px;
+    cursor: pointer;
+    border: 2px solid white;
+    background: rgba(255, 255, 255, 1);
+    transform: translateY(-50%);
+}
+
+.sliders:hover{
+    background: rgba(255, 255, 255, 0.2);
+}
+.right{
+    right:0;
+}
+.sliders span{
+    color: white;
+    font-size: 35px;
+    line-height: 45px;
+    
+}
+.btn-slides{
+    position: absolute;
+    bottom:20px;
+    left:50%;
+    display: flex;
+    transform: translateX(-50%);
+}
+
+.btn-slides span{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    border:2px solid white;
+    margin:0 3px;
+    cursor:pointer;
+
+}

@@ -1,0 +1,10 @@
+{
+    "noticias":[
+       {
+            "titulo":"ALONSO Y ASTON MARTIN ILUSIONAN",
+            "texto":"El equipo verde, con el gran deportista español Fernando Alonso, presentó su nuevo coche hace unos días con algunos cambios en la 
+        aerodínamica que harán que todos los españoles confíen en la 33."
+        
+       }
+    ]
+ }
